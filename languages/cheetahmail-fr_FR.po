@@ -1,0 +1,1383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CheetahMail\n"
+"POT-Creation-Date: 2013-01-05 17:44+0100\n"
+"PO-Revision-Date: 2013-06-11 14:11+0100\n"
+"Last-Translator: CheetahMail\n"
+"Language-Team: CheetahMail <product@product.cheetahmail.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: FR\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# ***********************************************
+# STATIC
+# ***********************************************
+msgid "rsc_static_intro"
+msgstr ""
+"Pour installer ce plugin merci de saisir les identifiants API qui vous ont "
+"été fournis par nos équipes."
+
+msgid "rsc_static_title"
+msgstr "Experian Marketing Services"
+
+msgid "rsc_static_b1_title"
+msgstr "Qualit&eacute; des donn&eacute;es"
+
+msgid "rsc_static_b1_content"
+msgstr ""
+"Obtenez des donn&eacute;es de qualit&eacute; dans votre base avec le "
+"contr&ocirc;le et la validation au moment de la saisie"
+
+msgid "rsc_static_b1_link"
+msgstr "en savoir plus"
+
+msgid "rsc_static_b2_title"
+msgstr "Connaissance client & Segmentation"
+
+msgid "rsc_static_b2_content"
+msgstr ""
+"D&eacute;couvrez qui sont vos clients et prospects et optimisez le retour de "
+"vos campagnes marketing"
+
+msgid "rsc_static_b2_link"
+msgstr "en savoir plus"
+
+msgid "rsc_static_b3_title"
+msgstr "Marketing cross-canal"
+
+msgid "rsc_static_b3_content"
+msgstr ""
+"Ex&eacute;cutez des campagnes cross-canal et adressez les bons messages, au "
+"bon moment via le bon canal"
+
+msgid "rsc_static_b3_link"
+msgstr "en savoir plus"
+
+# ***********************************************
+# JS
+# ***********************************************
+msgid "rsc_js_g_information"
+msgstr "Information"
+
+msgid "rsc_js_g_success"
+msgstr "Succès"
+
+msgid "rsc_js_g_error"
+msgstr "Erreur"
+
+msgid "rsc_js_error"
+msgstr "Une erreur est survenue"
+
+msgid "rsc_js_params_error"
+msgstr "Des paramètres manquent ou sont incorrects"
+
+msgid "rsc_js_soap_error"
+msgstr "Une erreur API est survenue"
+
+msgid "rsc_js_camp_sheduled"
+msgstr "campagne programmée"
+
+msgid "rsc_js_installation_done"
+msgstr ""
+"Installation terminée, la page va se recharger dans 2 secondes, merci !"
+
+msgid "rsc_js_settings_saved"
+msgstr "Paramètres sauvegardés"
+
+msgid "rsc_js_structure_saved"
+msgstr "Structure sauvegardée"
+
+msgid "rsc_js_nl_settings_saved"
+msgstr "Paramètres de la NL sauvegardés"
+
+msgid "rsc_js_nl_contents_load"
+msgstr "Erreur lors du chargement des contenus de la NL"
+
+msgid "rsc_js_nl_infos_load"
+msgstr "Erreur lors du chargement des informations de la NL"
+
+msgid "rsc_js_subs_infos_load"
+msgstr "Erreur lors du chargement des informations des abonnés"
+
+msgid "rsc_js_nl_envelop_load"
+msgstr "Erreur lors du chargement de la configuration d'envoi de la NL"
+
+msgid "rsc_js_tpl_load"
+msgstr "Erreur lors du chargement des templates"
+
+msgid "rsc_js_no_users"
+msgstr "Aucun utilisateur WP"
+
+msgid "rsc_js_users_sync"
+msgstr "Tous les utilisateurs WP sont synchronisés"
+
+msgid "rsc_js_users_sync_result"
+msgstr "Résultat de la synchronisation"
+
+msgid "rsc_js_sync_done"
+msgstr "Synchronisation terminée"
+
+msgid "rsc_js_no_nl_topush"
+msgstr "Aucun nouveau contenu à pousser dans une NL"
+
+msgid "rsc_js_nl_topush"
+msgstr "La NL a bien été envoyée"
+
+msgid "rsc_js_test_sent"
+msgstr "Votre test a bien été envoyé"
+
+msgid "rsc_js_tpl_added"
+msgstr "Template ajouté"
+
+msgid "rsc_js_tpl_duplicated"
+msgstr "Template dupliqué"
+
+msgid "rsc_js_tpl_saved"
+msgstr "Template sauvegardé"
+
+msgid "rsc_js_tpl_deleted"
+msgstr "Template supprimé"
+
+msgid "rsc_js_camp_notloaded"
+msgstr "La campagne n'a pu être chargée."
+
+msgid "rsc_js_camp_added"
+msgstr "Votre campagne a bien été ajoutée."
+
+msgid "rsc_js_camp_saved"
+msgstr "Votre campagne est sauvegardée."
+
+msgid "rsc_js_camp_deleted"
+msgstr "Votre campagne a bien été supprimée."
+
+msgid "rsc_js_camp_duplicated"
+msgstr "Votre campagne a bien été dupliquée."
+
+msgid "rsc_js_target_notloaded"
+msgstr "La liste des cibles n'a pu être chargée"
+
+msgid "rsc_js_target_added"
+msgstr "Votre cible a bien été ajoutée."
+
+msgid "rsc_js_target_saved"
+msgstr "Votre cible a bien été sauvegardée."
+
+msgid "rsc_js_config_saved"
+msgstr "Configuration sauvegardée."
+
+msgid "rsc_js_wy_elt_added"
+msgstr "Article / page ajouté au contenu."
+
+msgid "rsc_js_wy_fld_added"
+msgstr "Champ de personnalisation ajouté au contenu."
+
+msgid "rsc_js_wy_img_added"
+msgstr "Image ajoutée au contenu."
+
+msgid "rsc_js_user_subscribed"
+msgstr "est désormais abonné."
+
+msgid "rsc_js_user_unsubscribed"
+msgstr "est désormais désabonné."
+
+msgid "rsc_js_user_updated"
+msgstr "Destinataire mis à jour."
+
+msgid "rsc_js_user_deleted"
+msgstr "Destinataire supprimé."
+
+msgid "rsc_js_user_form_added"
+msgstr "Vous êtes désormais abonné, un email vous a été envoyé, merci encore !"
+
+msgid "rsc_js_user_form_updated"
+msgstr "Vos informations ont bien été modifiées, merci."
+
+msgid "rsc_js_user_form_error"
+msgstr "Une erreur est survenue, merci de rééssayer."
+
+msgid "rsc_js_wy_add_article"
+msgstr "Ajouter un article / page de WordPress"
+
+msgid "rsc_js_wy_add_userfield"
+msgstr "Ajouter un champ utilisateur"
+
+msgid "rsc_js_wy_add_img"
+msgstr "Ajouter une image de WordPress"
+
+# ***********************************************
+# VIEWS : MENUS
+# ***********************************************
+msgid "menu_settings"
+msgstr "Paramètres"
+
+msgid "menu_subscriptions"
+msgstr "Inscription"
+
+msgid "menu_newsletters"
+msgstr "Newsletters"
+
+msgid "menu_emailing"
+msgstr "Emailing"
+
+msgid "menu_templates"
+msgstr "Templates"
+
+msgid "menu_targets"
+msgstr "Cibles"
+
+# ***********************************************
+# VIEWS : SUB MENUS
+# ***********************************************
+msgid "sub_menu_envelop"
+msgstr "Configuration d'envoi"
+
+msgid "sub_menu_settings"
+msgstr "Configuration de la NL"
+
+msgid "sub_menu_subcription"
+msgstr "Email d'inscription"
+
+msgid "sub_menu_unsubcription"
+msgstr "Email de désinscription"
+
+msgid "sub_menu_subscribers"
+msgstr "Gestion des abonnés"
+
+msgid "sub_menu_sync"
+msgstr "Synchronisation des utilisateurs WordPress"
+
+msgid "sub_menu_preview_nl"
+msgstr "Prévisualiser le prochain envoi"
+
+msgid "sub_menu_historic_nl"
+msgstr "Historique des NL"
+
+msgid "sub_menu_templates"
+msgstr "Templates"
+
+msgid "sub_menu_campaigns"
+msgstr "Campagnes"
+
+msgid "sub_menu_new"
+msgstr "Ajouter"
+
+# ***********************************************
+# VIEWS : SUB SUB MENU
+# ***********************************************
+msgid "sub_sub_menu_api"
+msgstr "Compte API"
+
+msgid "sub_sub_menu_settings"
+msgstr "Paramètres"
+
+msgid "sub_sub_menu_hashtags"
+msgstr "HashTags"
+
+msgid "sub_sub_menu_infos"
+msgstr "Infos"
+
+msgid "sub_sub_menu_structure"
+msgstr "Structure"
+
+msgid "sub_sub_menu_synchronize"
+msgstr "Synchroniser"
+
+msgid "sub_sub_menu_style"
+msgstr "Style"
+
+msgid "sub_sub_menu_preview"
+msgstr "Prévisualiser"
+
+msgid "sub_sub_menu_listtpl"
+msgstr "Liste des templates"
+
+msgid "sub_sub_menu_newtpl"
+msgstr "Ajouter un template"
+
+msgid "sub_sub_menu_list_camp"
+msgstr "En préparation"
+
+msgid "sub_sub_menu_list_sentcamp"
+msgstr "Campagnes envoyées"
+
+msgid "sub_sub_menu_list_senttest"
+msgstr "Tests envoyés"
+
+msgid "sub_sub_menu_newcamp"
+msgstr "Ajouter une campagne"
+
+msgid "sub_sub_menu_listtargets"
+msgstr "Liste des cibles"
+
+msgid "sub_sub_menu_newtarget"
+msgstr "Ajouter une cible"
+
+# ***********************************************
+# VIEWS : INSTALLATION
+# ***********************************************
+msgid "Install"
+msgstr "Installation"
+
+msgid "plugin_title"
+msgstr "CheetahMail France - WordPress Plugin"
+
+msgid "plugin_idmlist"
+msgstr "Base CheetahMail (IDMLIST)"
+
+msgid "plugin_tooltip_idmlist"
+msgstr "Numéro de base Experian CheetahMail France"
+
+msgid "plugin_login"
+msgstr "Login API"
+
+msgid "plugin_tooltip_login"
+msgstr "Identifiant API CheetahMail France"
+
+msgid "plugin_key"
+msgstr "Mot de passe API"
+
+msgid "plugin_tooltip_key"
+msgstr "Le mot de passe fourni par CheetahMail France"
+
+# ***********************************************
+# MSG INFOS / GROWLS ETC
+# ***********************************************
+msgid "Aren't you supposed to come here via WP-Admin?"
+msgstr "Vous n'êtes pas humain ..."
+
+msgid "Success"
+msgstr "Succès"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Save changes"
+msgstr "Sauvegarder"
+
+msgid "Reinstallation"
+msgstr "Réinstaller le plugin"
+
+# ***********************************************
+# MSG STANDARDS
+# ***********************************************
+msgid "rsc_standard_add"
+msgstr "Ajouter"
+
+msgid "rsc_standard_update"
+msgstr "Sauvegarder"
+
+msgid "rsc_standard_load"
+msgstr "Charger"
+
+msgid "rsc_standard_html"
+msgstr "HTML"
+
+msgid "rsc_standard_tooltip_html"
+msgstr "Version HTML de votre email"
+
+msgid "rsc_standard_txt"
+msgstr "TXT"
+
+msgid "rsc_standard_tooltip_txt"
+msgstr "Version TXT de votre email"
+
+msgid "rsc_standard_tooltip_htmltotxt"
+msgstr "Générer la version texte"
+
+# ***********************************************
+# VIEWS : CAMPAIGNS
+# ***********************************************
+msgid "camp_rsc_name"
+msgstr "Nom : "
+
+msgid "camp_rsc_tooltip_name"
+msgstr "Chaîne de caractères, chiffres ou lettres, 250 car. max"
+
+msgid "camp_rsc_subject"
+msgstr "Objet : "
+
+msgid "camp_rsc_tooltip_subject"
+msgstr "Chaîne de caractères, chiffres ou lettres, 250 car. max"
+
+msgid "camp_rsc_target"
+msgstr "Cible d'envoi : "
+
+msgid "camp_rsc_uploadtpl"
+msgstr "Charger un template : "
+
+msgid "camp_rsc_choosetpl"
+msgstr "Choisir un template : "
+
+msgid "camp_rsc_notpl"
+msgstr "Aucun template "
+
+msgid "camp_rsc_nodate"
+msgstr "Aucune date "
+
+# ***********************************************
+# VIEWS : TEMPLATES
+# ***********************************************
+msgid "tpl_rsc_name"
+msgstr "Nom : "
+
+msgid "tpl_rsc_tooltip_name"
+msgstr "Chaîne de caractères, chiffres ou lettres, 250 car. max"
+
+msgid "tpl_rsc_subject"
+msgstr "Objet : "
+
+msgid "tpl_rsc_tooltip_subject"
+msgstr "Chaîne de caractères, chiffres ou lettres, 250 car. max"
+
+# ***********************************************
+# VIEWS : TARGET
+# ***********************************************
+msgid "target_rsc_name"
+msgstr "Nom de la cible"
+
+msgid "target_rsc_tooltip_name"
+msgstr "Chaîne de caractères, chiffres ou lettres"
+
+msgid "target_rsc_criterias"
+msgstr "Critères de segmentation"
+
+# ***********************************************
+# VIEWS : SETTINGS
+# ***********************************************
+msgid "settings_title_1"
+msgstr "Informations API"
+
+msgid "settings_title_2"
+msgstr "Paramètres globaux"
+
+msgid "settings_title_3"
+msgstr "Préfixes"
+
+msgid "settings_title_4"
+msgstr "Test et prévisualisation"
+
+msgid "settings_title_5"
+msgstr "Pages de gestion des abonnements"
+
+msgid "settings_form_idmlist"
+msgstr "Numéro de base CheetahMail"
+
+msgid "settings_form_tooltip_idmlist"
+msgstr "Correspond au numéro de votre base, champ numérique"
+
+msgid "settings_form_login"
+msgstr "Login API"
+
+msgid "settings_form_tooltip_login"
+msgstr "Correspond à votre identifiant API, champ alpha numérique"
+
+msgid "settings_form_key"
+msgstr "Mot de passe API"
+
+msgid "settings_form_tooltip_key"
+msgstr "Correspond au mot de passe API"
+
+msgid "settings_form_blog_lang"
+msgstr "Langue du blog"
+
+msgid "settings_form_date_lang"
+msgstr "Format des dates"
+
+msgid "settings_form_tooltip_date_lang"
+msgstr "Format d'affichage des langues"
+
+msgid "settings_form_domain"
+msgstr "Domaine d'envoi"
+
+msgid "settings_form_tooltip_domain"
+msgstr ""
+"Il s'agit de votre domaine utilisé pour l'envoi des emails de ce plugin, on "
+"l'appelle DKIM"
+
+msgid "settings_form_autostyle"
+msgstr "Styliser les formulaires"
+
+msgid "settings_form_tooltip_autostyle"
+msgstr "Utilise le style du plugin pour le formulaire"
+
+msgid "settings_form_prefixtarget"
+msgstr "Préfixe des Cibles d'envoi"
+
+msgid "settings_form_tooltip_prefixtarget"
+msgstr ""
+"Le préfixe est automatiquement ajouté au nom des cibles qui seront créées."
+
+msgid "settings_form_prefixnl"
+msgstr "Préfixe des Newsletters"
+
+msgid "settings_form_tooltip_prefixnl"
+msgstr ""
+"Le préfixe est automatiquement ajouté au nom des Newsletters qui seront "
+"créées."
+
+msgid "settings_form_prefixemail"
+msgstr "Préfixe des Campagnes email"
+
+msgid "settings_form_tooltip_prefixemail"
+msgstr ""
+"Le préfixe est automatiquement ajouté au nom des Emails qui seront créés."
+
+msgid "settings_form_prefixbat"
+msgstr "Préfixe des tests"
+
+msgid "settings_form_tooltip_prefixbat"
+msgstr ""
+"Le préfixe est automatiquement ajouté au nom des Tests  qui seront envoyés."
+
+msgid "settings_form_battarget"
+msgstr "Cible de test"
+
+msgid "settings_form_tooltip_battarget"
+msgstr ""
+"Une adresse email par ligne, les @ inconnues seront automatiquement ajoutées "
+"en base."
+
+msgid "settings_form_email_preview"
+msgstr "Email de preview"
+
+msgid "settings_form_tooltip_email_preview"
+msgstr "Adresse email utilisée pour faire la prévisualisation des emails."
+
+msgid "settings_form_subslink"
+msgstr "Page d'inscription"
+
+msgid "settings_form_tooltip_subslink"
+msgstr "Cette page permettra l'abonnement complet des utilisateurs."
+
+msgid "settings_form_unsubslink"
+msgstr "Page de désabonnement"
+
+msgid "settings_form_tooltip_unsubslink"
+msgstr ""
+"Le lien vers cette page est automatiquement ajouté aux campagnes email et "
+"newsletters envoyés."
+
+msgid "settings_form_unsubstxtbefore"
+msgstr "Texte précédent le lien de désabonnement"
+
+msgid "settings_form_tooltip_unsubstxtbefore"
+msgstr "Html ou texte précédent le lien de désabonnement"
+
+msgid "settings_form_unsubstxtlink"
+msgstr "Libellé du lien de désabonnement"
+
+msgid "settings_form_tooltip_unsubstxtlink"
+msgstr "Texte du lien cliquable"
+
+msgid "settings_form_unsubstxtafter"
+msgstr "Texte suivant le lien de désabonnement"
+
+msgid "settings_form_tooltip_unsubstxtafter"
+msgstr "Html ou txt qui suivra le lien"
+
+msgid "settings_form_ea"
+msgstr "Email Analytics"
+
+msgid "settings_form_tooltip_ea"
+msgstr ""
+"Cette option vous permet d'auditer les campagnes email, vous pouvez "
+"retrouver ces informations sur la plateforme CheetahMail. Attention vous "
+"devez disposer de cette fonctionnalité pour pouvoir l'utiliser ici, si vous "
+"n'avez pas les droits nécessaires, la création des campagnes ne fonctionnera "
+"plus."
+
+msgid "settings_form_doubletracking"
+msgstr "Double Tracking"
+
+msgid "settings_form_tooltip_doubletracking"
+msgstr ""
+"Cette option vous permet de double tracker vos campagnes avec le Web "
+"Analytics de votre choix."
+
+# ***********************************************
+# VIEWS : TABLES TH
+# ***********************************************
+msgid "settings_table_id"
+msgstr "ID"
+
+msgid "settings_table_type"
+msgstr "Type"
+
+msgid "settings_table_operator"
+msgstr "Opérateur"
+
+msgid "settings_table_displaytext"
+msgstr "Nom du champ"
+
+msgid "settings_table_values"
+msgstr "Valeurs"
+
+msgid "settings_table_format"
+msgstr "Format"
+
+msgid "settings_table_synchronization"
+msgstr "Synchronisation"
+
+msgid "settings_table_editable"
+msgstr "Editable"
+
+msgid "settings_table_displayed"
+msgstr "Affichage"
+
+# ***********************************************
+# VIEWS : TABLES ACTIONS
+# ***********************************************
+msgid "action_table_update"
+msgstr "Modifier"
+
+msgid "action_table_unsubscribe"
+msgstr "Désabonner"
+
+msgid "action_table_forcesubscribe"
+msgstr "Réabonner"
+
+msgid "action_table_delete"
+msgstr "Supprimer"
+
+# ***********************************************
+# VIEWS : OPERATORS FOR TARGETS FIELDS
+# ***********************************************
+msgid "operator_none"
+msgstr "Aucun"
+
+msgid "operator_equal"
+msgstr "égal"
+
+msgid "operator_different"
+msgstr "Différent de"
+
+msgid "operator_filled"
+msgstr "Renseigné"
+
+msgid "operator_notfilled"
+msgstr "Vide"
+
+msgid "operator_ago"
+msgstr "Il y a n jours"
+
+msgid "operator_in"
+msgstr "Dans n jours"
+
+# ***********************************************
+# CONTENTS
+# ***********************************************
+msgid "c_title_1"
+msgstr "Informations"
+
+msgid "c_content_1_1"
+msgstr ""
+"Merci d'avoir activé votre plugin CheetahMail. Ce plugin est bien entendu "
+"destiné à la plateforme française."
+
+msgid "c_content_1_2"
+msgstr ""
+"Le plugin vous permet de piloter vos campagnes de manière autonome. Vous "
+"pouvez en quelque sorte vous passer de l'application Experian CheetahMail ! "
+"Mais ce n'est pas le but :) <br />Certaines fonctionnalités restent "
+"disponibles uniquement sur la plateforme, pour l'instant..."
+
+msgid "c_title_2"
+msgstr "Nommages et paramètres du plugin"
+
+msgid "c_content_2_1"
+msgstr ""
+"Dans la partie paramètres vous retrouverez les noms des préfixes ces "
+"derniers sont les espaces de noms des éléments créés depuis votre site "
+"wordpress, cela vous permet de bien vous repérer sur l'application dans le "
+"cas ou vous feriez des campagnes hors WordPress. <br /><br /> Par défaut les "
+"paramètres ne sont pas éditables, car logiquement vous n'avez pas à les "
+"modifier, mais si ces derniers provoquent des conflits avec les nommages que "
+"vous utiliseriez depuis la plateforme CheetahMail, il vous suffit de double "
+"cliquer sur le champ."
+
+msgid "c_title_3"
+msgstr "Personnalisation"
+
+msgid "c_content_3_1"
+msgstr ""
+"Vous disposez de certaines synthaxes de personnalisation, en voici la "
+"liste : "
+
+msgid "c_content_3_2"
+msgstr ""
+"<strong>$H(1)</strong><br />  pour le lien page mirroir, cela fonctionne "
+"uniquement pour les newsletters et les emailings, mais pas sur les emails "
+"d'abonnement et de désabonnement. "
+
+msgid "c_title_4"
+msgstr "Désabonnement"
+
+msgid "c_content_4_1"
+msgstr ""
+"Vous diposez de plusieurs possibilités pour gérer votre désabonnement. La "
+"plus simple est d'utiliser le lien par défaut Experian CheetahMail.<br /> "
+"Vous pouvez aussi utiliser une page de votre site WordPress, n'oubliez pas "
+"d'y mettre le hashtag de désabonnement. <br /><br />Notons bien que le "
+"plugin est voué à une utilisation standard de la plateforme Experian "
+"CheetahMail, il désabonne donc l'abonné au global, si vous souhaitez "
+"proposer à votre désabonnés un désabonnement sur un champ autre, vous pouvez "
+"utiliser un lien généré via notre générateur de formulaires présent sur "
+"votre application préférée..."
+
+msgid "c_title_5"
+msgstr "Hashtags"
+
+msgid "c_content_5_1"
+msgstr ""
+"Voici la liste des hashtags que vous pouvez incorporer à vos posts et pages. "
+"Ces derniers seront automatiquement remplacés par les formulaires "
+"équivalents. Si vous souhaitez appliquer un style automatique à vos "
+"formulaires (à l'image du plugin), vous devez l'activer dans la partie "
+"Paramètres."
+
+msgid "c_content_5_2"
+msgstr ""
+"<strong>[CheetahMailSubscriptionForm]</strong><br /> Affiche un formulaire "
+"complet d'inscription , l'utilisateur est ajouté ou modifié."
+
+msgid "c_content_5_3"
+msgstr ""
+"<strong>[CheetahMailUpdateForm] </strong><br /> Affiche un formulaire de "
+"modification des informations. Le formulaire est basé sur la structure "
+"définie, les champs sont ainsi auto alimentés. <br /><br />Vous pouvez ainsi "
+"utiliser le lien dans vos emails, il suffit pour cela de lui ajouter  un "
+"paramètre supplémentaire : &email=$U(1). Ce paramètre doit être ajouté à "
+"l'url de la page pour que le système fonctionne."
+
+msgid "c_content_5_4"
+msgstr ""
+"<strong>[subscription_newsletter] </strong><br />Affiche un formulaire "
+"rapide d'abonnement avec juste le champ email. Ce shortcode est disponible "
+"en widget."
+
+msgid "c_content_5_5"
+msgstr ""
+"<strong>[unsubscription_newsletter] </strong><br /> Affiche un formulaire "
+"rapide de désabonnement avec juste le champ email. Ce shortcode est "
+"disponible en widget."
+
+# ***********************************************
+# ***********************************************
+# ***********************************************
+# ***********************************************
+# ***********************************************
+# ***********************************************
+# DYNAMIC VIEW : FN
+# ***********************************************
+msgid "rsc_fn_defaultdomain"
+msgstr "mondomaine.fr"
+
+msgid "rsc_fn_mailto"
+msgstr "Destinataire"
+
+msgid "rsc_fn_mailfrom"
+msgstr "Mon from"
+
+# ***********************************************
+# DYNAMIC VIEW : STANDARDS
+# ***********************************************
+msgid "rsc_btn_update"
+msgstr "Mettre à jour"
+
+msgid "rsc_btn_add"
+msgstr "Ajouter"
+
+# ***********************************************
+# DYNAMIC VIEW : TABLE TH
+# ***********************************************
+msgid "rsc_table_id"
+msgstr "ID"
+
+msgid "rsc_table_date"
+msgstr "Date"
+
+msgid "rsc_table_type"
+msgstr "Type"
+
+msgid "rsc_table_state"
+msgstr "Etat"
+
+msgid "rsc_table_name"
+msgstr "Nom"
+
+msgid "rsc_table_displaytext"
+msgstr "Champ"
+
+msgid "rsc_table_values"
+msgstr "Valeurs"
+
+msgid "rsc_table_actions"
+msgstr "Actions"
+
+msgid "rsc_table_format"
+msgstr "Format"
+
+msgid "rsc_table_size"
+msgstr "Taille"
+
+msgid "rsc_table_sync"
+msgstr "Synchroniser"
+
+msgid "rsc_table_setformat"
+msgstr "Formatter"
+
+msgid "rsc_table_setdefault"
+msgstr "Valeur par défaut"
+
+msgid "rsc_table_editable"
+msgstr "Editable"
+
+msgid "rsc_table_displayed"
+msgstr "Affiché"
+
+msgid "rsc_table_email"
+msgstr "Email"
+
+msgid "rsc_table_subsdate"
+msgstr "Date d'inscription"
+
+msgid "rsc_table_unsubsdate"
+msgstr "Date de désinscription"
+
+msgid "rsc_table_recipients"
+msgstr "Destinataires"
+
+msgid "rsc_table_filtered"
+msgstr "Filtrés"
+
+msgid "rsc_table_bounces"
+msgstr "NPAI"
+
+msgid "rsc_table_hardbounces"
+msgstr "HardBounce"
+
+msgid "rsc_table_softbounces"
+msgstr "SoftBounce"
+
+msgid "rsc_table_delivered"
+msgstr "Délivrés"
+
+msgid "rsc_table_unsubs"
+msgstr "Désabonnés"
+
+msgid "rsc_table_openers"
+msgstr "Ouvreurs"
+
+msgid "rsc_table_openings"
+msgstr "Ouvertures"
+
+msgid "rsc_table_clickers"
+msgstr "Cliqueurs"
+
+msgid "rsc_table_clicks"
+msgstr "Clics"
+
+msgid "rsc_table_user_email"
+msgstr "Email"
+
+msgid "rsc_table_user_login"
+msgstr "Login WP"
+
+msgid "rsc_table_user_nicename"
+msgstr "Nom d'utilisateur"
+
+msgid "rsc_table_user_displayname"
+msgstr "Nom d'affichage de l'utilisateur"
+
+msgid "rsc_table_user_subsdate"
+msgstr "Date d'inscription"
+
+msgid "rsc_table_operator"
+msgstr "Opérateur"
+
+msgid "rsc_table_toppage"
+msgstr "Marqueur"
+
+msgid "rsc_table_fixed_value"
+msgstr "Valeur fixe"
+
+# ***********************************************
+# DYNAMIC VIEW : TABLE INSIDE
+# ***********************************************
+msgid "rsc_table_format_none"
+msgstr "Ne pas modifier la saisie de l'utilisateur"
+
+msgid "rsc_table_format_lowercase"
+msgstr "Minuscule"
+
+msgid "rsc_table_format_uppercase"
+msgstr "Majuscule"
+
+msgid "rsc_table_format_first"
+msgstr "Première lettre de chaque phrase en majuscule"
+
+msgid "rsc_table_format_allfirst"
+msgstr "Première lettre de chaque mot en majuscule"
+
+msgid "rsc_table_format_zerofill"
+msgstr "Compléter par des zéros"
+
+msgid "rsc_table_toppage_none"
+msgstr "Aucun"
+
+msgid "rsc_table_toppage_toppage"
+msgstr "Champ de toppage"
+
+msgid "rsc_table_toppage_subs"
+msgstr "Champ d'abonnement"
+
+msgid "rsc_table_toppage_unsubs"
+msgstr "Champ de désabonnement"
+
+# ***********************************************
+# DYNAMIC VIEW : TABLE ACTIONS LIST
+# ***********************************************
+msgid "rsc_table_action_edit"
+msgstr "Modifier"
+
+msgid "rsc_table_action_preview"
+msgstr "Prévisualiser"
+
+msgid "rsc_table_action_duplicate"
+msgstr "Dupliquer"
+
+msgid "rsc_table_action_send"
+msgstr "Envoyer"
+
+msgid "rsc_table_action_sendtest"
+msgstr "Envoyer un test"
+
+msgid "rsc_table_action_delete"
+msgstr "Supprimer"
+
+msgid "rsc_table_action_viewusers"
+msgstr "Voir le résultat"
+
+msgid "rsc_table_action_number"
+msgstr "Total"
+
+msgid "rsc_table_action_seedetails"
+msgstr "Voir le rapport"
+
+# ***********************************************
+# DYNAMIC VIEW : OTHERS CONTENTS
+# ***********************************************
+msgid "rsc_table_update_user_title"
+msgstr "Mise à jour du destinataire"
+
+msgid "rsc_table_update_no_result"
+msgstr ""
+"Aucun champ n'est disponible, veuillez synchroniser des champs depuis la "
+"partie Paramètres > structure."
+
+msgid "rsc_content_recipients"
+msgstr "destinataires"
+
+msgid "rsc_content_name"
+msgstr "Nom"
+
+msgid "rsc_content_criterias"
+msgstr "Critères"
+
+msgid "rsc_content_results"
+msgstr "Résultats"
+
+msgid "rsc_content_search"
+msgstr "Chercher"
+
+msgid "rsc_content_subs_sentence_left"
+msgstr "Vous avez actuellement"
+
+msgid "rsc_content_subs_sentence_right"
+msgstr "abonnés dans votre base de données CheetahMail"
+
+msgid "rsc_content_unsubs_sentence_left"
+msgstr "Vous avez actuellement"
+
+msgid "rsc_content_unsubs_sentence_right"
+msgstr "désabonnés dans votre base de données CheetahMail"
+
+msgid "rsc_content_search_sentence"
+msgstr "Utilisez % pour tout, Les résultats sont limités à 50."
+
+msgid "rsc_content_sync_btn"
+msgstr "Synchroniser vos utilisateurs de Wordpress"
+
+msgid "rsc_content_no_user_to_sync"
+msgstr "Tous les utilisateurs de WordPress sont déjà synchronisés."
+
+# EMAIL SETTINGS
+msgid "rsc_email_sendbat"
+msgstr "Envoyer un test"
+
+# NL SETTINGS
+msgid "rsc_content_nl_activation"
+msgstr "Activation"
+
+msgid "rsc_content_nl_target"
+msgstr "Cible d'envoi"
+
+msgid "rsc_content_nl_type"
+msgstr "Type"
+
+msgid "rsc_content_nl_tooltip_type"
+msgstr "Type"
+
+msgid "rsc_content_nl_type_post"
+msgstr "Posts"
+
+msgid "rsc_content_nl_type_page"
+msgstr "Pages"
+
+msgid "rsc_content_nl_elt"
+msgstr "éléments"
+
+msgid "rsc_content_nl_elt_limit"
+msgstr "Limite"
+
+msgid "rsc_content_nl_tooltip_elt_limit"
+msgstr "Nombre maximum d'éléments à mettre dans la NL"
+
+msgid "rsc_content_nl_elt_limit_all"
+msgstr "Illimité"
+
+msgid "rsc_content_nl_elt_orderby"
+msgstr "Trier par date"
+
+msgid "rsc_content_nl_tooltip_elt_orderby"
+msgstr "Paramètre permettant de trier les éléments par date"
+
+msgid "rsc_content_nl_elt_frequency"
+msgstr "Fréquence"
+
+msgid "rsc_content_nl_tooltip_elt_frequency"
+msgstr "Permet de régler le rythme d'envoi de vos NL"
+
+msgid "rsc_content_nl_elt_frequency_daily"
+msgstr "Tous les jours"
+
+msgid "rsc_content_nl_elt_frequency_weekly"
+msgstr "Toutes les semaines"
+
+msgid "rsc_content_nl_elt_frequency_monthly"
+msgstr "Tous les mois"
+
+msgid "rsc_content_nl_addimage"
+msgstr "Visuel"
+
+msgid "rsc_content_nl_addcoment"
+msgstr "Commentaires"
+
+msgid "rsc_content_nl_addlink"
+msgstr "Lien"
+
+msgid "rsc_content_nl_style_title"
+msgstr "Titre"
+
+msgid "rsc_content_nl_style_content"
+msgstr "Contenu"
+
+msgid "rsc_content_nl_style_coments"
+msgstr "Commentaires"
+
+msgid "rsc_content_nl_style_link"
+msgstr "Lien"
+
+msgid "rsc_content_nl_style_link_text"
+msgstr "Texte lien à afficher"
+
+msgid "rsc_content_nl_style_color"
+msgstr "Couleur"
+
+msgid "rsc_content_nl_style_fontface"
+msgstr "Police"
+
+msgid "rsc_content_nl_style_size"
+msgstr "Taille"
+
+msgid "rsc_content_nl_style_bold"
+msgstr "Gras"
+
+msgid "rsc_content_nl_style_underline"
+msgstr "Souligné"
+
+msgid "rsc_content_nl_style_italic"
+msgstr "Italique"
+
+msgid "rsc_content_nl_style_uppercase"
+msgstr "Majuscule"
+
+msgid "rsc_content_nl_last_nl"
+msgstr "Date de dernier envoi"
+
+msgid "rsc_content_nl_send"
+msgstr "Envoyer la NL"
+
+msgid "rsc_content_nl_sendbat"
+msgstr "Envoyer un test de la NL"
+
+# ***********************************************
+# DYNAMIC VIEW : TEMPLATE
+# ***********************************************
+msgid "rsc_tpl_name"
+msgstr "Nom "
+
+msgid "rsc_tpl_subject"
+msgstr "Objet "
+
+msgid "rsc_tpl_notpl"
+msgstr "Pas de template"
+
+msgid "rsc_tpl_nodate"
+msgstr "Pas de date "
+
+# ***********************************************
+# DYNAMIC VIEW : CAMPAGNE
+# ***********************************************
+msgid "rsc_camp_params"
+msgstr "Paramètres"
+
+msgid "rsc_camp_name"
+msgstr "Nom "
+
+msgid "rsc_camp_subject"
+msgstr "Objet "
+
+msgid "rsc_camp_html"
+msgstr "HTML"
+
+msgid "rsc_camp_txt"
+msgstr "TXT"
+
+msgid "rsc_camp_target"
+msgstr "Cible d'envoi"
+
+msgid "rsc_camp_uploadtpl"
+msgstr "Charger un template"
+
+msgid "rsc_camp_choosetpl"
+msgstr "Choisissez un template"
+
+msgid "rsc_camp_loadtpl"
+msgstr "Charger"
+
+msgid "rsc_camp_envelopp"
+msgstr "Configuration d'envoi"
+
+msgid "rsc_camp_recipients"
+msgstr "Destinataires"
+
+msgid "rsc_camp_bounces"
+msgstr "NPAI"
+
+msgid "rsc_camp_performance"
+msgstr "Performance de l'envoi"
+
+msgid "rsc_camp_sentdate"
+msgstr "Date de l'envoi"
+
+msgid "rsc_camp_nostats"
+msgstr "Pas de statistiques sur cet envoi."
+
+# ***********************************************
+# DYNAMIC VIEW : CONFIG
+# ***********************************************
+msgid "rsc_config_from"
+msgstr "De : "
+
+msgid "rsc_config_tooltip_from"
+msgstr "Affichage de provenance : "
+
+msgid "rsc_config_reply"
+msgstr "Répondre à : "
+
+msgid "rsc_config_subject"
+msgstr "Objet : "
+
+msgid "rsc_config_tooltip_subject"
+msgstr "Objet de la campagne "
+
+msgid "rsc_config_emailfrom"
+msgstr "Email de provenance : "
+
+msgid "rsc_config_tooltip_emailfrom"
+msgstr "Adresse email de provenance "
+
+msgid "rsc_config_npai"
+msgstr "Email de retour NPAI : "
+
+msgid "rsc_config_tooltip_npai"
+msgstr "Email de retour NPAI : "
+
+msgid "rsc_config_emailreply"
+msgstr "Email de réponse : "
+
+msgid "rsc_config_tooltip_emailreply"
+msgstr "Email de réponse : "
+
+msgid "rsc_config_date_sentence"
+msgstr "Saisir $C(10) pour ajouter la date courante"
+
+msgid "rsc_config_htmltotxt"
+msgstr "Générer la version texte"
+
+msgid "rsc_config_html_header"
+msgstr "Haut de page HTML"
+
+msgid "rsc_config_txt_header"
+msgstr "Haut de page TXT"
+
+msgid "rsc_config_wrapper_top"
+msgstr "Au dessus des éléments"
+
+msgid "rsc_config_wrapper_bottom"
+msgstr "En dessous des éléments"
+
+msgid "rsc_config_body_html"
+msgstr "Contenu HTML"
+
+msgid "rsc_config_body_txt"
+msgstr "Contenu TXT"
+
+msgid "rsc_config_html_footer"
+msgstr "Pied de page HTML"
+
+msgid "rsc_config_txt_footer"
+msgstr "Pied de page TXT"
+
+msgid "rsc_config_html_unsubs"
+msgstr "Zone de désabonnement HTML"
+
+msgid "rsc_config_txt_unsubs"
+msgstr "Zone de désabonnement TXT"
+
+# ***********************************************
+# DYNAMIC VIEW : SUB MENUS
+# ***********************************************
+msgid "rsc_submenu_subscribers"
+msgstr "Abonnés"
+
+msgid "rsc_submenu_unsubscribers"
+msgstr "Désabonnés"
+
+msgid "rsc_submenu_search"
+msgstr "Chercher"
+
+msgid "rsc_submenu_envelop"
+msgstr "Configuration d'envoi"
+
+msgid "rsc_submenu_header"
+msgstr "Haut de page"
+
+msgid "rsc_submenu_wrapper"
+msgstr "Entourage"
+
+msgid "rsc_submenu_body"
+msgstr "Corps"
+
+msgid "rsc_submenu_footer"
+msgstr "Pied de page"
+
+msgid "rsc_submenu_unsubs"
+msgstr "Désinscription"
+
+msgid "rsc_submenu_preview"
+msgstr "Prévisualisation"
+
+# ***********************************************
+# DYNAMIC VIEW :  TARGETS
+# ***********************************************
+msgid "rsc_table_content_name"
+msgstr "Nom de la cible"
+
+# ***********************************************
+# PLUGINS
+# ***********************************************
+msgid "rsc_plugin_error"
+msgstr ""
+"Un problème technique est survenu, merci de contacter l'administrateur."
+
+# ### SUBS
+msgid "rsc_plugin_subs_button"
+msgstr "S'abonner"
+
+msgid "rsc_plugin_subs_form_title"
+msgstr "Titre du formulaire"
+
+msgid "rsc_plugin_subs_form_desc"
+msgstr "Message d'instruction"
+
+msgid "rsc_plugin_subs_form_validation"
+msgstr "Message de validation"
+
+msgid "rsc_plugin_subs_name"
+msgstr "Abonnement CheetahMail"
+
+msgid "rsc_plugin_subs_description"
+msgstr ""
+"Ce widget permet aux visiteurs de s'abonner à vos emails via CheetahMail."
+
+msgid "rsc_plugin_subs_title"
+msgstr "S'abonner aux emails"
+
+msgid "rsc_plugin_subs_fld"
+msgstr "Adresse email incorrecte."
+
+msgid "rsc_plugin_subs_msg_error"
+msgstr "Vous êtes déjà abonné !"
+
+msgid "rsc_plugin_subs_msg_success"
+msgstr ""
+"Félicitations et merci pour votre abonnement, soyez le bienvenu, vous venez "
+"de recevoir un email de confirmation d'inscription."
+
+msgid "rsc_plugin_subs_fld_instruction"
+msgstr "Renseignez votre Adresse Email : "
+
+# ### UNSUBS
+msgid "rsc_plugin_unsubs_button"
+msgstr "Se désabonner"
+
+msgid "rsc_plugin_unsubs_form_title"
+msgstr "Titre du formulaire"
+
+msgid "rsc_plugin_unsubs_form_desc"
+msgstr "Message d'instruction"
+
+msgid "rsc_plugin_unsubs_form_validation"
+msgstr "Message de validation"
+
+msgid "rsc_plugin_unsubs_name"
+msgstr "Désabonnement CheetahMail"
+
+msgid "rsc_plugin_unsubs_description"
+msgstr ""
+"Ce widget permet aux visiteurs de se désabonner à vos emails via CheetahMail."
+
+msgid "rsc_plugin_unsubs_title"
+msgstr "Se désabonner aux emails"
+
+msgid "rsc_plugin_unsubs_fld"
+msgstr "Adresse email incorrecte."
+
+msgid "rsc_plugin_unsubs_msg_error"
+msgstr "Vous n'êtes pas abonné !"
+
+msgid "rsc_plugin_unsubs_msg_success"
+msgstr "Nous vous confirmons votre désinscription"
+
+msgid "rsc_plugin_unsubs_fld_instruction"
+msgstr "Renseignez votre Adresse Email : "

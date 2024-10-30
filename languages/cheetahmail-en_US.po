@@ -1,0 +1,1376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CheetahMail\n"
+"POT-Creation-Date: 2013-01-05 17:44+0100\n"
+"PO-Revision-Date: 2013-06-11 14:11+0100\n"
+"Last-Translator: CheetahMail\n"
+"Language-Team: CheetahMail <product@product.cheetahmail.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# ***********************************************
+# STATIC
+# ***********************************************
+msgid "rsc_static_title"
+msgstr "Experian Marketing Services"
+
+msgid "rsc_static_intro"
+msgstr "Please enter the API's credentials given by CheetahMail France Teams."
+
+msgid "rsc_static_b1_title"
+msgstr "Data Quality"
+
+msgid "rsc_static_b1_content"
+msgstr ""
+"Get a good data quality by checking in realtime the postal address on your "
+"website..."
+
+msgid "rsc_static_b1_link"
+msgstr "know more"
+
+msgid "rsc_static_b2_title"
+msgstr "Client Knowledge &amp; Targeting"
+
+msgid "rsc_static_b2_content"
+msgstr ""
+"Dicover who are your clients &amp; prospects and optimize your Marketing "
+"Campaigns..."
+
+msgid "rsc_static_b2_link"
+msgstr "know more"
+
+msgid "rsc_static_b3_title"
+msgstr "Marketing cross-canal"
+
+msgid "rsc_static_b3_content"
+msgstr ""
+"Develop cross channels campaigns by using the good message with the good "
+"channel at the right time..."
+
+msgid "rsc_static_b3_link"
+msgstr "know more"
+
+# ***********************************************
+# JS
+# ***********************************************
+msgid "rsc_js_g_information"
+msgstr "Information"
+
+msgid "rsc_js_g_success"
+msgstr "Success"
+
+msgid "rsc_js_g_error"
+msgstr "Error"
+
+msgid "rsc_js_error"
+msgstr "An error occured"
+
+msgid "rsc_js_params_error"
+msgstr "Some parameters are wrong or missing"
+
+msgid "rsc_js_soap_error"
+msgstr "An API error occured"
+
+msgid "rsc_js_camp_sheduled"
+msgstr "Scheduled campaign"
+
+msgid "rsc_js_installation_done"
+msgstr "Install done, the current page will reload in 2 seconds!"
+
+msgid "rsc_js_settings_saved"
+msgstr "Settings saved"
+
+msgid "rsc_js_structure_saved"
+msgstr "Structure saved"
+
+msgid "rsc_js_nl_settings_saved"
+msgstr "NL settings saved"
+
+msgid "rsc_js_nl_contents_load"
+msgstr "Error while loading NL settings"
+
+msgid "rsc_js_nl_infos_load"
+msgstr "Error while loading NL informations"
+
+msgid "rsc_js_subs_infos_load"
+msgstr "Error while loading users settings"
+
+msgid "rsc_js_nl_envelop_load"
+msgstr "Error while loading NL sending envelop"
+
+msgid "rsc_js_tpl_load"
+msgstr "Error while loading templates"
+
+msgid "rsc_js_no_users"
+msgstr "No WP Users yet"
+
+msgid "rsc_js_users_sync"
+msgstr "All WP Users synchronized"
+
+msgid "rsc_js_users_sync_result"
+msgstr "Synchronization result"
+
+msgid "rsc_js_sync_done"
+msgstr "Synchronization finished"
+
+msgid "rsc_js_no_nl_topush"
+msgstr "No new content to push in the NL"
+
+msgid "rsc_js_nl_topush"
+msgstr "The NL has been sent"
+
+msgid "rsc_js_test_sent"
+msgstr "Your test has been sent"
+
+msgid "rsc_js_tpl_added"
+msgstr "Template added"
+
+msgid "rsc_js_tpl_saved"
+msgstr "Template saved"
+
+msgid "rsc_js_tpl_duplicated"
+msgstr "Template duplicated"
+
+msgid "rsc_js_tpl_deleted"
+msgstr "Template deleted"
+
+msgid "rsc_js_camp_notloaded"
+msgstr "Campign load failed"
+
+msgid "rsc_js_camp_added"
+msgstr "Campaign added"
+
+msgid "rsc_js_camp_saved"
+msgstr "Campaign saved"
+
+msgid "rsc_js_camp_deleted"
+msgstr "Campaign deleted"
+
+msgid "rsc_js_camp_duplicated"
+msgstr "Campaign duplicated"
+
+msgid "rsc_js_target_notloaded"
+msgstr "Target list failed while loading"
+
+msgid "rsc_js_target_added"
+msgstr "Target added"
+
+msgid "rsc_js_target_saved"
+msgstr "Target saved"
+
+msgid "rsc_js_config_saved"
+msgstr "Envelop saved"
+
+msgid "rsc_js_wy_elt_added"
+msgstr "WP Article / page added to your current content"
+
+msgid "rsc_js_wy_fld_added"
+msgstr "User field added to your current content"
+
+msgid "rsc_js_wy_img_added"
+msgstr "Image added to your current content"
+
+msgid "rsc_js_user_subscribed"
+msgstr "is now subscribed."
+
+msgid "rsc_js_user_unsubscribed"
+msgstr "is now unsubscribed."
+
+msgid "rsc_js_user_updated"
+msgstr "Subscriber updated"
+
+msgid "rsc_js_user_deleted"
+msgstr "Subscriber deleted"
+
+msgid "rsc_js_user_form_added"
+msgstr ""
+"You successfully subscribe, an email has been sent to you. Thanks &amp; "
+"Welcome again!"
+
+msgid "rsc_js_user_form_updated"
+msgstr "You successfully update your informations."
+
+msgid "rsc_js_user_form_error"
+msgstr "An error occured."
+
+msgid "rsc_js_wy_add_article"
+msgstr "Insert an page / article from WordPress"
+
+msgid "rsc_js_wy_add_userfield"
+msgstr "Insert a userfield"
+
+msgid "rsc_js_wy_add_img"
+msgstr "Insert an image from WordPress"
+
+# ***********************************************
+# VIEWS : MENUS
+# ***********************************************
+msgid "menu_settings"
+msgstr "Settings"
+
+msgid "menu_subscriptions"
+msgstr "Subscription"
+
+msgid "menu_newsletters"
+msgstr "Newsletters"
+
+msgid "menu_emailing"
+msgstr "Emailing"
+
+msgid "menu_templates"
+msgstr "Templates"
+
+msgid "menu_targets"
+msgstr "Targets"
+
+# ***********************************************
+# VIEWS : SUB MENUS
+# ***********************************************
+msgid "sub_menu_envelop"
+msgstr "Envelop"
+
+msgid "sub_menu_settings"
+msgstr "NL envelop"
+
+msgid "sub_menu_subcription"
+msgstr "Subscription email"
+
+msgid "sub_menu_unsubcription"
+msgstr "Unsubscription email"
+
+msgid "sub_menu_subscribers"
+msgstr "Subscribers management"
+
+msgid "sub_menu_sync"
+msgstr "WordPress Users synchronization"
+
+msgid "sub_menu_preview_nl"
+msgstr "Preview next sent"
+
+msgid "sub_menu_historic_nl"
+msgstr "NL historic"
+
+msgid "sub_menu_templates"
+msgstr "Templates"
+
+msgid "sub_menu_campaigns"
+msgstr "Campaigns"
+
+msgid "sub_menu_new"
+msgstr "Add"
+
+# ***********************************************
+# VIEWS : SUB SUB MENU
+# ***********************************************
+msgid "sub_sub_menu_api"
+msgstr "API Account"
+
+msgid "sub_sub_menu_settings"
+msgstr "Settings"
+
+msgid "sub_sub_menu_hashtags"
+msgstr "HashTags"
+
+msgid "sub_sub_menu_infos"
+msgstr "Infos"
+
+msgid "sub_sub_menu_structure"
+msgstr "Structure"
+
+msgid "sub_sub_menu_synchronize"
+msgstr "Synchronize"
+
+msgid "sub_sub_menu_style"
+msgstr "Style"
+
+msgid "sub_sub_menu_preview"
+msgstr "Preview"
+
+msgid "sub_sub_menu_listtpl"
+msgstr "Templates list"
+
+msgid "sub_sub_menu_newtpl"
+msgstr "Add a template"
+
+msgid "sub_sub_menu_list_camp"
+msgstr "Preparing"
+
+msgid "sub_sub_menu_list_sentcamp"
+msgstr "Sent campaigns"
+
+msgid "sub_sub_menu_list_senttest"
+msgstr "Sent tests"
+
+msgid "sub_sub_menu_newcamp"
+msgstr "Add a campaign"
+
+msgid "sub_sub_menu_listtargets"
+msgstr "Target list"
+
+msgid "sub_sub_menu_newtarget"
+msgstr "Add a target"
+
+# ***********************************************
+# VIEWS : INSTALLATION
+# ***********************************************
+msgid "Install"
+msgstr "Installation"
+
+msgid "plugin_title"
+msgstr "CheetahMail France - WordPress Plugin"
+
+msgid "plugin_idmlist"
+msgstr "CheetahMail Database(IDMLIST)"
+
+msgid "plugin_tooltip_idmlist"
+msgstr "Your CheetahMail Database identifier"
+
+msgid "plugin_login"
+msgstr "API Login"
+
+msgid "plugin_tooltip_login"
+msgstr "CheetahMail France API identifier"
+
+msgid "plugin_key"
+msgstr "API password"
+
+msgid "plugin_tooltip_key"
+msgstr "The API password given by CheetahMail teams"
+
+# ***********************************************
+# MSG INFOS / GROWLS ETC
+# ***********************************************
+msgid "Aren't you supposed to come here via WP-Admin?"
+msgstr "You're not human and not a cheetah ..."
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Save changes"
+msgstr "Save"
+
+msgid "Reinstallation"
+msgstr "Reinstall plugin"
+
+# ***********************************************
+# MSG STANDARDS
+# ***********************************************
+msgid "rsc_standard_add"
+msgstr "Add"
+
+msgid "rsc_standard_update"
+msgstr "Save"
+
+msgid "rsc_standard_load"
+msgstr "Load"
+
+msgid "rsc_standard_html"
+msgstr "HTML"
+
+msgid "rsc_standard_tooltip_html"
+msgstr "Email HTML version"
+
+msgid "rsc_standard_txt"
+msgstr "TXT"
+
+msgid "rsc_standard_tooltip_txt"
+msgstr "Email TXT version"
+
+msgid "rsc_standard_tooltip_htmltotxt"
+msgstr "Autogenerate TXT version"
+
+# ***********************************************
+# VIEWS : CAMPAIGNS
+# ***********************************************
+msgid "camp_rsc_name"
+msgstr "Name : "
+
+msgid "camp_rsc_tooltip_name"
+msgstr "String, numbers or letters, 250 cars. max"
+
+msgid "camp_rsc_subject"
+msgstr "Subject : "
+
+msgid "camp_rsc_tooltip_subject"
+msgstr "String, numbers or letters, 250 cars. max"
+
+msgid "camp_rsc_target"
+msgstr "Target : "
+
+msgid "camp_rsc_uploadtpl"
+msgstr "Load a template : "
+
+msgid "camp_rsc_choosetpl"
+msgstr "Choose a template : "
+
+msgid "camp_rsc_notpl"
+msgstr "No template "
+
+msgid "camp_rsc_nodate"
+msgstr "No date "
+
+# ***********************************************
+# VIEWS : TEMPLATES
+# ***********************************************
+msgid "tpl_rsc_name"
+msgstr "Name : "
+
+msgid "tpl_rsc_tooltip_name"
+msgstr "String, numbers or letters, 250 cars. max"
+
+msgid "tpl_rsc_subject"
+msgstr "Subject : "
+
+msgid "tpl_rsc_tooltip_subject"
+msgstr "String, numbers or letters, 250 cars. max"
+
+# ***********************************************
+# VIEWS : TARGET
+# ***********************************************
+msgid "target_rsc_name"
+msgstr "Target name"
+
+msgid "target_rsc_tooltip_name"
+msgstr "String, numbers or letters"
+
+msgid "target_rsc_criterias"
+msgstr "Targeting criteria"
+
+# ***********************************************
+# VIEWS : SETTINGS
+# ***********************************************
+msgid "settings_title_1"
+msgstr "API Informations"
+
+msgid "settings_title_2"
+msgstr "Global settings"
+
+msgid "settings_title_3"
+msgstr "Prefixes"
+
+msgid "settings_title_4"
+msgstr "Tests & preview"
+
+msgid "settings_title_5"
+msgstr "Subscribe management pages"
+
+msgid "settings_form_idmlist"
+msgstr "CheetahMail database number"
+
+msgid "settings_form_tooltip_idmlist"
+msgstr "Database number, is an integer"
+
+msgid "settings_form_login"
+msgstr "API Login"
+
+msgid "settings_form_tooltip_login"
+msgstr "API login, usually looks like wssoap_{IDMLIST}"
+
+msgid "settings_form_key"
+msgstr "API password"
+
+msgid "settings_form_tooltip_key"
+msgstr "API password, string looks like a hash"
+
+msgid "settings_form_blog_lang"
+msgstr "Blog language"
+
+msgid "settings_form_date_lang"
+msgstr "Date format"
+
+msgid "settings_form_tooltip_date_lang"
+msgstr "Date format for display on plugins and shortcodes"
+
+msgid "settings_form_domain"
+msgstr "Sending Domain - DKIM "
+
+msgid "settings_form_tooltip_domain"
+msgstr "The domain used for all sent emails of the plugin, it is called DKIM"
+
+msgid "settings_form_autostyle"
+msgstr "Automatically design shortocdes forms"
+
+msgid "settings_form_tooltip_autostyle"
+msgstr "Use the plugin look for forms"
+
+msgid "settings_form_prefixtarget"
+msgstr "Targets prefix"
+
+msgid "settings_form_tooltip_prefixtarget"
+msgstr ""
+"This prefix is automatically added before all targets created from the plugin"
+
+msgid "settings_form_prefixnl"
+msgstr "Newsletters prefix"
+
+msgid "settings_form_tooltip_prefixnl"
+msgstr ""
+"This prefix is automatically added before all Newsletters created from the "
+"plugin"
+
+msgid "settings_form_prefixemail"
+msgstr "Campaigns prefix"
+
+msgid "settings_form_tooltip_prefixemail"
+msgstr ""
+"This prefix is automatically added before all Email campaign created from "
+"the plugin"
+
+msgid "settings_form_prefixbat"
+msgstr "Tests prefix"
+
+msgid "settings_form_tooltip_prefixbat"
+msgstr ""
+"This prefix is automatically added before all tests sent from the plugin"
+
+msgid "settings_form_battarget"
+msgstr "Test target"
+
+msgid "settings_form_tooltip_battarget"
+msgstr ""
+"Please put one email per line, unknown emails are automatically added when "
+"saving"
+
+msgid "settings_form_email_preview"
+msgstr "Preview email"
+
+msgid "settings_form_tooltip_email_preview"
+msgstr "Email used for previewing NL / triggers emails / campaigns"
+
+msgid "settings_form_subslink"
+msgstr "Subscribe page"
+
+msgid "settings_form_tooltip_subslink"
+msgstr "This page is made for users subscription"
+
+msgid "settings_form_unsubslink"
+msgstr "Unsubscribe page"
+
+msgid "settings_form_tooltip_unsubslink"
+msgstr ""
+"A link to this page is automatically added to NL & Email campaigns, not on "
+"triggers emails"
+
+msgid "settings_form_unsubstxtbefore"
+msgstr "HTML before the unsubscription link"
+
+msgid "settings_form_tooltip_unsubstxtbefore"
+msgstr "HTML or TXT to put before the unsubscription link"
+
+msgid "settings_form_unsubstxtlink"
+msgstr "Unsubscription link label"
+
+msgid "settings_form_tooltip_unsubstxtlink"
+msgstr "The displayed text for unsubscription link"
+
+msgid "settings_form_unsubstxtafter"
+msgstr "HTML after the unsubscription link"
+
+msgid "settings_form_tooltip_unsubstxtafter"
+msgstr "HTML or TXT to put after the unsubscription link"
+
+msgid "settings_form_ea"
+msgstr "Email Analytics"
+
+msgid "settings_form_tooltip_ea"
+msgstr ""
+"This option let you audit your email campaigns, the audit is not available "
+"on the plugin, you have to go on the CheetahMail app to see it. This feature "
+"is not for free, if you check it there be sure of  having it first "
+"configured on your CheetahMail Database, if not all campaigns  would failed "
+"here!"
+
+msgid "settings_form_doubletracking"
+msgstr "Double Tracking"
+
+msgid "settings_form_tooltip_doubletracking"
+msgstr ""
+"This option let you have a double tracking (WebAnalytics) for all emails/ "
+"triggers emails / NL / BAT sent from this plugin, the list of the available "
+"WA on this field can be managed on the CheetahMail app."
+
+# ***********************************************
+# VIEWS : TABLES TH
+# ***********************************************
+msgid "settings_table_id"
+msgstr "ID"
+
+msgid "settings_table_type"
+msgstr "Type"
+
+msgid "settings_table_operator"
+msgstr "Operator"
+
+msgid "settings_table_displaytext"
+msgstr "Field Name"
+
+msgid "settings_table_values"
+msgstr "Values"
+
+msgid "settings_table_format"
+msgstr "Format"
+
+msgid "settings_table_synchronization"
+msgstr "Synchronization"
+
+msgid "settings_table_editable"
+msgstr "Editable"
+
+msgid "settings_table_displayed"
+msgstr "Displayed"
+
+# ***********************************************
+# VIEWS : TABLES ACTIONS
+# ***********************************************
+msgid "action_table_update"
+msgstr "Update"
+
+msgid "action_table_unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "action_table_forcesubscribe"
+msgstr "Resubscribe"
+
+msgid "action_table_delete"
+msgstr "Delete"
+
+# ***********************************************
+# VIEWS : OPERATORS FOR TARGETS FIELDS
+# ***********************************************
+msgid "operator_none"
+msgstr "None"
+
+msgid "operator_equal"
+msgstr "Equal to"
+
+msgid "operator_different"
+msgstr "Different from"
+
+msgid "operator_filled"
+msgstr "Filled"
+
+msgid "operator_notfilled"
+msgstr "Empty"
+
+msgid "operator_ago"
+msgstr "N days ago"
+
+msgid "operator_in"
+msgstr "In N days"
+
+# ***********************************************
+# CONTENTS
+# ***********************************************
+msgid "c_title_1"
+msgstr "Informations"
+
+msgid "c_content_1_1"
+msgstr ""
+"Thanks for active the CheetahMail plugin for WordPress. This plugin is only "
+"made for the french CheetahMail app."
+
+msgid "c_content_1_2"
+msgstr ""
+"This plugin let you manage your Email Marketing Campaigns by yourself. You "
+"can use it as a standalone solution, even if it's not our target! Some "
+"functionnalities can only be defined ont the CheetahMail app or by the "
+"CheetahMail France Technical Support, we hope you'll enjoy!"
+
+msgid "c_title_2"
+msgstr "Plugin Naming and settings"
+
+msgid "c_content_2_1"
+msgstr ""
+"In the settings part, you will find the prefixes, those last are like "
+"namespaces used to identify the WordPress Campaigns on the CheetahMail app, "
+"beware if you use this naming on the app, they will appear on the plugin. Do "
+"not hesitate to ask us before doing something here, to edit those fields, "
+"double click on it, by default they're readonly to avoid you make some "
+"unwanted changes."
+
+msgid "c_title_3"
+msgstr "Personnalization"
+
+msgid "c_content_3_1"
+msgstr ""
+"You dispose of various synthax to add pesonnalization, here is the list :  "
+
+msgid "c_content_3_2"
+msgstr ""
+"<strong>$H(1)</strong><br />  for the mirror page link, it only works for NL "
+"& emails, not for un/subscription forms."
+
+msgid "c_title_4"
+msgstr "Unsubscription"
+
+msgid "c_content_4_1"
+msgstr ""
+"You can manage the unsubscription by different ways. the simpliest is to use "
+"the native CheetahMail unsubscription link<br /> You can also use a "
+"WordPress page, do not miss to put the unsubscription hashtag on. Please "
+"consider this plugin is made for commun usage, it means the unsubscription "
+"is made on the native state field to do this (FLD4), if you want to use "
+"another field you may need to create a GenForm on the CheetahMail app and "
+"put the generated link into your emails."
+
+msgid "c_title_5"
+msgstr "Hashtags"
+
+msgid "c_content_5_1"
+msgstr ""
+"Here is Hashtags you can put in your posts and pages. Those are "
+"automatically replaced by the corresponding forms. If you want to add the "
+"plugin automatic style, you need to activate this feature on the settings "
+"page."
+
+msgid "c_content_5_2"
+msgstr ""
+"<strong>[CheetahMailSubscriptionForm]</strong><br /> Display a complete "
+"subscription form based on the structure defined. The user is added or "
+"updated."
+
+msgid "c_content_5_3"
+msgstr ""
+"<strong>[CheetahMailUpdateForm] </strong><br /> Display an update form to "
+"let users manage their profile informations. The form is based on the "
+"structure defined, fields are automatically filled if data do exist. <br /"
+"><br /> Then you can use this link in your emails by putting it inside your "
+"code, do not forget to add the email param as this : &email=$U(1). This "
+"parameter is mandatory, if not the form won't work."
+
+msgid "c_content_5_4"
+msgstr ""
+"<strong>[subscription_newsletter] </strong><br />Display the quick "
+"subscription form, it only displays the email field. Available as a widget."
+
+msgid "c_content_5_5"
+msgstr ""
+"<strong>[unsubscription_newsletter] </strong><br /> Display the "
+"unsubscription form, it only displays the email field. Available as a widget."
+
+# ***********************************************
+# ***********************************************
+# ***********************************************
+# ***********************************************
+# ***********************************************
+# ***********************************************
+# DYNAMIC VIEW : FN
+# ***********************************************
+msgid "rsc_fn_defaultdomain"
+msgstr "mydomain.com"
+
+msgid "rsc_fn_mailto"
+msgstr "Recipient"
+
+msgid "rsc_fn_mailfrom"
+msgstr "My From"
+
+# ***********************************************
+# DYNAMIC VIEW : STANDARDS
+# ***********************************************
+msgid "rsc_btn_update"
+msgstr "Update"
+
+msgid "rsc_btn_add"
+msgstr "Add"
+
+# ***********************************************
+# DYNAMIC VIEW : TABLE TH
+# ***********************************************
+msgid "rsc_table_id"
+msgstr "ID"
+
+msgid "rsc_table_date"
+msgstr "Date"
+
+msgid "rsc_table_type"
+msgstr "Type"
+
+msgid "rsc_table_state"
+msgstr "State"
+
+msgid "rsc_table_name"
+msgstr "Name"
+
+msgid "rsc_table_displaytext"
+msgstr "Field"
+
+msgid "rsc_table_values"
+msgstr "Values"
+
+msgid "rsc_table_actions"
+msgstr "Actions"
+
+msgid "rsc_table_format"
+msgstr "Format"
+
+msgid "rsc_table_size"
+msgstr "Size"
+
+msgid "rsc_table_sync"
+msgstr "Synchronize"
+
+msgid "rsc_table_setformat"
+msgstr "Format"
+
+msgid "rsc_table_setdefault"
+msgstr "Default value"
+
+msgid "rsc_table_editable"
+msgstr "Editable"
+
+msgid "rsc_table_displayed"
+msgstr "Displayed"
+
+msgid "rsc_table_email"
+msgstr "Email"
+
+msgid "rsc_table_subsdate"
+msgstr "Subscription date"
+
+msgid "rsc_table_unsubsdate"
+msgstr "Unsubscription date"
+
+msgid "rsc_table_recipients"
+msgstr "Recipients"
+
+msgid "rsc_table_filtered"
+msgstr "Filtered"
+
+msgid "rsc_table_bounces"
+msgstr "Bounces"
+
+msgid "rsc_table_hardbounces"
+msgstr "HardBounces"
+
+msgid "rsc_table_softbounces"
+msgstr "SoftBounces"
+
+msgid "rsc_table_delivered"
+msgstr "Delivered"
+
+msgid "rsc_table_unsubs"
+msgstr "Unsubscribed"
+
+msgid "rsc_table_openers"
+msgstr "Opoeners"
+
+msgid "rsc_table_openings"
+msgstr "Openings"
+
+msgid "rsc_table_clickers"
+msgstr "clickers"
+
+msgid "rsc_table_clicks"
+msgstr "Clicks"
+
+msgid "rsc_table_user_email"
+msgstr "Email"
+
+msgid "rsc_table_user_login"
+msgstr "WP Login"
+
+msgid "rsc_table_user_nicename"
+msgstr "User nicename"
+
+msgid "rsc_table_user_displayname"
+msgstr "User displayed name"
+
+msgid "rsc_table_user_subsdate"
+msgstr "Subscription date"
+
+msgid "rsc_table_operator"
+msgstr "Operator"
+
+msgid "rsc_table_toppage"
+msgstr "Marker"
+
+msgid "rsc_table_fixed_value"
+msgstr "Fixed Value"
+
+# ***********************************************
+# DYNAMIC VIEW : TABLE INSIDE
+# ***********************************************
+msgid "rsc_table_format_none"
+msgstr "Do not modify the user datas"
+
+msgid "rsc_table_format_lowercase"
+msgstr "Lowercase"
+
+msgid "rsc_table_format_uppercase"
+msgstr "Uppercase"
+
+msgid "rsc_table_format_first"
+msgstr "Each sentence first letter is uppercased"
+
+msgid "rsc_table_format_allfirst"
+msgstr "Each word first letter is uppercased"
+
+msgid "rsc_table_format_zerofill"
+msgstr "Zero fullfilment"
+
+msgid "rsc_table_toppage_none"
+msgstr "None"
+
+msgid "rsc_table_toppage_toppage"
+msgstr "Toppage Field"
+
+msgid "rsc_table_toppage_subs"
+msgstr "Subs Field"
+
+msgid "rsc_table_toppage_unsubs"
+msgstr "Unsubs Field"
+
+# ***********************************************
+# DYNAMIC VIEW : TABLE ACTIONS LIST
+# ***********************************************
+msgid "rsc_table_action_edit"
+msgstr "Edit"
+
+msgid "rsc_table_action_preview"
+msgstr "Preview"
+
+msgid "rsc_table_action_duplicate"
+msgstr "Duplicate"
+
+msgid "rsc_table_action_send"
+msgstr "Send"
+
+msgid "rsc_table_action_sendtest"
+msgstr "Send a test"
+
+msgid "rsc_table_action_delete"
+msgstr "Delete"
+
+msgid "rsc_table_action_viewusers"
+msgstr "See results"
+
+msgid "rsc_table_action_number"
+msgstr "Total"
+
+msgid "rsc_table_action_seedetails"
+msgstr "See report"
+
+# ***********************************************
+# DYNAMIC VIEW : OTHERS CONTENTS
+# ***********************************************
+msgid "rsc_table_update_user_title"
+msgstr "Update recipient"
+
+msgid "rsc_table_update_no_result"
+msgstr ""
+"No field available here, please synchronize users fields in the settings > "
+"structure page."
+
+msgid "rsc_content_recipients"
+msgstr "recipients"
+
+msgid "rsc_content_name"
+msgstr "Name"
+
+msgid "rsc_content_criterias"
+msgstr "Criteria"
+
+msgid "rsc_content_results"
+msgstr "Results"
+
+msgid "rsc_content_search"
+msgstr "Search"
+
+msgid "rsc_content_subs_sentence_left"
+msgstr "You currently have"
+
+msgid "rsc_content_subs_sentence_right"
+msgstr "subscribed in your CheetahMail Database"
+
+msgid "rsc_content_unsubs_sentence_left"
+msgstr "You currently have"
+
+msgid "rsc_content_unsubs_sentence_right"
+msgstr "unsubscribed in your CheetahMail Database"
+
+msgid "rsc_content_search_sentence"
+msgstr "Use % for everything, results are limited to 50."
+
+msgid "rsc_content_sync_btn"
+msgstr "Synchronize WordPress users"
+
+msgid "rsc_content_no_user_to_sync"
+msgstr "All WordPress users a re synchronized."
+
+# EMAIL SETTINGS
+msgid "rsc_email_sendbat"
+msgstr "Send a test"
+
+# NL SETTINGS
+msgid "rsc_content_nl_activation"
+msgstr "Activated"
+
+msgid "rsc_content_nl_target"
+msgstr "Target"
+
+msgid "rsc_content_nl_type"
+msgstr "Type"
+
+msgid "rsc_content_nl_tooltip_type"
+msgstr "Elements types to push in the NL"
+
+msgid "rsc_content_nl_type_post"
+msgstr "Posts"
+
+msgid "rsc_content_nl_type_page"
+msgstr "Pages"
+
+msgid "rsc_content_nl_elt"
+msgstr "elements"
+
+msgid "rsc_content_nl_elt_limit"
+msgstr "Limit"
+
+msgid "rsc_content_nl_tooltip_elt_limit"
+msgstr "Maximum number of elements to push in the NL"
+
+msgid "rsc_content_nl_elt_limit_all"
+msgstr "Unlimited"
+
+msgid "rsc_content_nl_elt_orderby"
+msgstr "Sort by date"
+
+msgid "rsc_content_nl_tooltip_elt_orderby"
+msgstr "Let you sort elements by date"
+
+msgid "rsc_content_nl_elt_frequency"
+msgstr "Frequency"
+
+msgid "rsc_content_nl_tooltip_elt_frequency"
+msgstr "Let you manage the sent rythm of your NL"
+
+msgid "rsc_content_nl_elt_frequency_daily"
+msgstr "Each day"
+
+msgid "rsc_content_nl_elt_frequency_weekly"
+msgstr "Each week"
+
+msgid "rsc_content_nl_elt_frequency_monthly"
+msgstr "Each month"
+
+msgid "rsc_content_nl_addimage"
+msgstr "Add image to elements"
+
+msgid "rsc_content_nl_addcoment"
+msgstr "Add comments to elements"
+
+msgid "rsc_content_nl_addlink"
+msgstr "Add link to elements"
+
+msgid "rsc_content_nl_style_title"
+msgstr "Title"
+
+msgid "rsc_content_nl_style_content"
+msgstr "Content"
+
+msgid "rsc_content_nl_style_coments"
+msgstr "Comments"
+
+msgid "rsc_content_nl_style_link"
+msgstr "Link"
+
+msgid "rsc_content_nl_style_link_text"
+msgstr "Displayed text for link"
+
+msgid "rsc_content_nl_style_color"
+msgstr "Color"
+
+msgid "rsc_content_nl_style_fontface"
+msgstr "Font face"
+
+msgid "rsc_content_nl_style_size"
+msgstr "Size"
+
+msgid "rsc_content_nl_style_bold"
+msgstr "Bold"
+
+msgid "rsc_content_nl_style_underline"
+msgstr "Underline"
+
+msgid "rsc_content_nl_style_italic"
+msgstr "Italic"
+
+msgid "rsc_content_nl_style_uppercase"
+msgstr "Uppercase"
+
+msgid "rsc_content_nl_last_nl"
+msgstr "Last sent date"
+
+msgid "rsc_content_nl_send"
+msgstr "Send NL now!"
+
+msgid "rsc_content_nl_sendbat"
+msgstr "Send a NL test"
+
+# ***********************************************
+# DYNAMIC VIEW : TEMPLATE
+# ***********************************************
+msgid "rsc_tpl_name"
+msgstr "Name "
+
+msgid "rsc_tpl_subject"
+msgstr "Subject "
+
+msgid "rsc_tpl_notpl"
+msgstr "No template"
+
+msgid "rsc_tpl_nodate"
+msgstr "No date "
+
+# ***********************************************
+# DYNAMIC VIEW : CAMPAGNE
+# ***********************************************
+msgid "rsc_camp_params"
+msgstr "Settings"
+
+msgid "rsc_camp_name"
+msgstr "Name "
+
+msgid "rsc_camp_subject"
+msgstr "Subject "
+
+msgid "rsc_camp_html"
+msgstr "HTML"
+
+msgid "rsc_camp_txt"
+msgstr "TXT"
+
+msgid "rsc_camp_target"
+msgstr "Target"
+
+msgid "rsc_camp_uploadtpl"
+msgstr "Load a template"
+
+msgid "rsc_camp_choosetpl"
+msgstr "Choose a template"
+
+msgid "rsc_camp_loadtpl"
+msgstr "Load"
+
+msgid "rsc_camp_envelopp"
+msgstr "Envelop"
+
+msgid "rsc_camp_recipients"
+msgstr "Recipients"
+
+msgid "rsc_camp_bounces"
+msgstr "Bounces"
+
+msgid "rsc_camp_performance"
+msgstr "Sent performance"
+
+msgid "rsc_camp_sentdate"
+msgstr "Sent date"
+
+msgid "rsc_camp_nostats"
+msgstr "No statistics for this sent"
+
+# ***********************************************
+# DYNAMIC VIEW : CONFIG
+# ***********************************************
+msgid "rsc_config_from"
+msgstr "From : "
+
+msgid "rsc_config_tooltip_from"
+msgstr "Displayed From : "
+
+msgid "rsc_config_reply"
+msgstr "Reply-to : "
+
+msgid "rsc_config_subject"
+msgstr "Subject : "
+
+msgid "rsc_config_tooltip_subject"
+msgstr "Campaign subject "
+
+msgid "rsc_config_emailfrom"
+msgstr "From : "
+
+msgid "rsc_config_tooltip_emailfrom"
+msgstr "The address displayed for from field "
+
+msgid "rsc_config_npai"
+msgstr "Return Path : "
+
+msgid "rsc_config_tooltip_npai"
+msgstr ""
+"The address that will receive all unknown feed backs from servers (return-"
+"path)"
+
+msgid "rsc_config_emailreply"
+msgstr "Reply-to: "
+
+msgid "rsc_config_tooltip_emailreply"
+msgstr "The address that receive the direct answers for recipient "
+
+msgid "rsc_config_date_sentence"
+msgstr "Put $C(10) to add the current date"
+
+msgid "rsc_config_htmltotxt"
+msgstr "Generate TXT version"
+
+msgid "rsc_config_html_header"
+msgstr "HTML header"
+
+msgid "rsc_config_txt_header"
+msgstr "TXT header"
+
+msgid "rsc_config_wrapper_top"
+msgstr "Above elements"
+
+msgid "rsc_config_wrapper_bottom"
+msgstr "Below elements"
+
+msgid "rsc_config_body_html"
+msgstr "HTML content"
+
+msgid "rsc_config_body_txt"
+msgstr "TXT content"
+
+msgid "rsc_config_html_footer"
+msgstr "HTML footer"
+
+msgid "rsc_config_txt_footer"
+msgstr "TXT footer"
+
+msgid "rsc_config_html_unsubs"
+msgstr "HTML Unsubscription area"
+
+msgid "rsc_config_txt_unsubs"
+msgstr "TXT Unsubscription area"
+
+# ***********************************************
+# DYNAMIC VIEW : SUB MENUS
+# ***********************************************
+msgid "rsc_submenu_subscribers"
+msgstr "Subscribed"
+
+msgid "rsc_submenu_unsubscribers"
+msgstr "Unsubscribed"
+
+msgid "rsc_submenu_search"
+msgstr "Search"
+
+msgid "rsc_submenu_envelop"
+msgstr "Sending configuration / Envelop"
+
+msgid "rsc_submenu_header"
+msgstr "Header"
+
+msgid "rsc_submenu_wrapper"
+msgstr "Content wrapper"
+
+msgid "rsc_submenu_body"
+msgstr "Content body"
+
+msgid "rsc_submenu_footer"
+msgstr "Footer"
+
+msgid "rsc_submenu_unsubs"
+msgstr "Unsubscribe"
+
+msgid "rsc_submenu_preview"
+msgstr "Preview"
+
+# ***********************************************
+# DYNAMIC VIEW :  TARGETS
+# ***********************************************
+msgid "rsc_table_content_name"
+msgstr "Target name"
+
+# ***********************************************
+# PLUGINS
+# ***********************************************
+msgid "rsc_plugin_subs_button"
+msgstr "Subscribe"
+
+msgid "rsc_plugin_subs_form_title"
+msgstr "Title"
+
+msgid "rsc_plugin_subs_form_desc"
+msgstr "Instructions"
+
+msgid "rsc_plugin_subs_form_validation"
+msgstr "Validation message"
+
+msgid "rsc_plugin_subs_name"
+msgstr "CheetahMail : Subscription"
+
+msgid "rsc_plugin_subs_description"
+msgstr ""
+"This widget allows visitors to subscribe to your emails with CheetahMail "
+"plugin"
+
+msgid "rsc_plugin_subs_error"
+msgstr "Error : Unable to contact service"
+
+msgid "rsc_plugin_subs_title"
+msgstr "Subscribe to our newsletter"
+
+msgid "rsc_plugin_subs_fld"
+msgstr "Wrong Email."
+
+msgid "rsc_plugin_subs_msg_error"
+msgstr "Error : You are already subscribed to our newsletter"
+
+msgid "rsc_plugin_subs_msg_success"
+msgstr ""
+"Congratulations, you have been subscribed, a confirmation email as been send "
+"to your email address"
+
+msgid "rsc_plugin_subs_fld_instruction"
+msgstr "Fill your email address"
+
+# ### UNSUBS
+msgid "rsc_plugin_unsubs_button"
+msgstr "Unsubscription"
+
+msgid "rsc_plugin_unsubs_form_title"
+msgstr "Form title"
+
+msgid "rsc_plugin_unsubs_form_desc"
+msgstr "Instructions"
+
+msgid "rsc_plugin_unsubs_form_validation"
+msgstr "Success message"
+
+msgid "rsc_plugin_unsubs_name"
+msgstr "CheetahMail Unsubscription"
+
+msgid "rsc_plugin_unsubs_description"
+msgstr ""
+"This widget allows visitors to unsubscribe to your emails with CheetahMail "
+"plugin"
+
+msgid "rsc_plugin_unsubs_title"
+msgstr "Email unsubscription"
+
+msgid "rsc_plugin_unsubs_fld"
+msgstr "Wrong email."
+
+msgid "rsc_plugin_unsubs_msg_error"
+msgstr "You're not existing!"
+
+msgid "rsc_plugin_unsubs_msg_success"
+msgstr "Thanks for unsubscribe, do not hesitate to come back later :)"
+
+msgid "rsc_plugin_unsubs_fld_instruction"
+msgstr "Fill your email address"

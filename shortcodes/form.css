@@ -1,0 +1,271 @@
+/* 
+GESTION LOADER
+*/
+	.loading_area{
+		position:relative;
+		float:left;
+		width:100%;
+		text-align:center;	
+		height:auto;
+		min-height:30px;
+		padding:0;
+		margin:0;
+	}
+	
+	.loading_area .loading_spinner{
+		position:relative;
+		margin:0 auto;
+		width:166px;
+		height:6px;
+		background:url(../img/bg-layer-loader.png) no-repeat left top transparent;				
+		margin-bottom:30px;	
+	}
+	
+
+	.loading_area .loading_spinner span.img_spinner{
+		position:relative;
+		display:block;
+		background:url(../img/layer-loader.gif) no-repeat left top transparent;	
+	}
+	
+	
+
+/* override JQUERY UI CALENDAR */
+
+#ui-datepicker-div{
+	background:#fff;
+	border:3px solid #efefef;
+	padding:10px;
+}
+
+table.ui-datepicker-calendar td a:hover{
+	background:#efefef;
+}
+
+td.ui-datepicker-current-day {
+	background:#1C1C1C;
+}
+
+
+
+#cheetahmail_form p
+{
+	position:relative;
+	float:left;
+	width:100%;
+	padding:0;
+	clear:both;
+	margin:0;
+	margin-bottom:10px;
+}
+
+#cheetahmail_form p label{
+	position:relative;
+	float:left;
+	width:24%;
+	padding:0 2%;
+	text-align:right;
+	line-height:24px;	
+	height:24px;
+	color:#333;
+	margin: 1px;
+	margin-right:1%;
+	font-size:12px;	
+	font-weight:bold;
+}
+
+
+
+
+#cheetahmail_form p input[type=text],
+#cheetahmail_form p select,
+#cheetahmail_form p textarea
+{
+	position:relative;
+	float:right;
+	min-width:65%;
+	min-width:65%;
+	width:65%;
+	padding:0 2% 0 2%;
+	line-height:24px;	
+	height:24px;
+	vertical-align:middle;
+	border:1px solid #CCCCCC;
+	background-image:-webkit-gradient(linear,0% 0%,0% 100%, from(#efefef),to(#FFFFFF));
+	background-image:-moz-linear-gradient(0% 100% 90deg,#efefef,#FFFFFF);
+	background-color:#efefef;
+	border-radius: 3px; 
+	-moz-border-radius:3px; 
+	-webkit-border-radius:3px;
+	font-size:11px;
+	color:#000;
+	font-family:Arial, Verdana;
+}
+
+
+
+#cheetahmail_form p input[type=text]:focus,
+#cheetahmail_form p select:focus,
+#cheetahmail_form p textarea:focus
+{
+
+	background-image:-webkit-gradient(linear,0% 0%,0% 100%, from(#ffffff),to(#efefef));
+	background-image:-moz-linear-gradient(0% 100% 90deg,#ffffff,#efefef);
+	background-color:#ffffff;
+
+}
+
+
+
+#cheetahmail_form p textarea{
+	height:100px;
+}
+
+#cheetahmail_form p select,
+#cheetahmail_form p select:hover{
+	padding:0 0 0 2%;
+	width:69%;
+}
+
+
+#cheetahmail_form p input[readonly],
+#cheetahmail_form p input[readonly]:focus
+{
+	background:#EFEFEF;
+	color:#CCC;
+}
+
+#cheetahmail_form p input[disabled],
+#cheetahmail_form p input[disabled]:focus
+{
+	background:#EFEFEF;
+	color:#CCC;
+}
+
+
+
+
+
+#cheetahmail_form p span.valid{
+	position:relative;
+	float:right;
+	background-image:-webkit-gradient(linear,0% 0%,0% 100%, from(#eaf2f6),to(#FFFFFF));
+	background-image:-moz-linear-gradient(0% 100% 90deg,#eaf2f6,#FFFFFF);
+	background-color:#eaf2f6;
+	border-radius: 3px; 
+	-moz-border-radius:3px; 
+	-webkit-border-radius:3px;	
+	line-height:30px;	
+	height:30px;
+	border:1px solid #ccc;
+	margin-left:2%;
+	/*margin-right:0.5%;	*/
+	padding: 0 1% 0 1%;
+	cursor:pointer;
+	font-size:12px;
+	color:#666;
+}
+
+#cheetahmail_form p span.valid:hover{
+	background-image:-webkit-gradient(linear,0% 0%,0% 100%, from(#FFFFFF),to(#eaf2f6));
+	background-image:-moz-linear-gradient(0% 100% 90deg,#FFFFFF,#eaf2f6);
+	background-color:#eaf2f6;
+	cursor:pointer;
+}
+
+#cheetahmail_form p span.valid.decale,
+#cheetahmail_form p span.valid.decale:hover{
+	margin-top:50px;
+	float:left; 
+	margin-left:34%;
+}
+
+
+#cheetahmail_form p span.valid input[type=button],
+#cheetahmail_form p span.valid input[type=submit],
+#cheetahmail_form p span.valid-light input[type=button],
+#cheetahmail_form p span.valid-light input[type=submit]
+{
+	padding:6px 2% 6px 30px;
+	color:#333;
+	font-weight:normal;
+	font-size:11px;
+	margin-left:2%;
+	border:0;
+	cursor:pointer;
+}
+
+
+#cheetahmail_form p span.valid input[type=button],
+#cheetahmail_form p span.valid input[type=submit]{
+	background:url(../img/save_off.png) left center no-repeat transparent;			
+}
+
+#cheetahmail_form p span.valid input[type=button].validation,
+#cheetahmail_form p span.valid input[type=submit].validation
+{
+	background:url(../img/_validation_off.png) left center no-repeat transparent;
+}
+
+
+
+#cheetahmail_form p span.valid input[type=button].validation:hover,
+#cheetahmail_form p span.valid input[type=submit].validation:hover
+{
+	background:url(../img/_validation_on.png) left center no-repeat transparent;	
+}
+
+#cheetahmail_form p span.valid input[type=button].cancel,
+#cheetahmail_form p span.valid input[type=submit].cancel
+{
+	background:url(../img/_cancel_off.png) left center no-repeat transparent;
+}
+
+#cheetahmail_form p span.valid input[type=button].cancel:hover,
+#cheetahmail_form p span.valid input[type=submit].cancel:hover
+{
+	background:url(../img/_cancel_off.png) left center no-repeat transparent;	
+}
+
+
+
+#cheetahmail_form p span.valid input[type=button][disabled],
+#cheetahmail_form p span.valid input[type=submit][disabled],
+#cheetahmail_form p span.valid input[type=button][disabled]:hover,
+#cheetahmail_form p span.valid input[type=submit][disabled]:hover
+{
+	padding:6px 2% 6px 30px;
+	color:#ccc;
+	font-weight:normal;
+	margin-left:2%;
+	border:0;
+	cursor:pointer;
+	background:url(../img/_icon_disabled.png) left center no-repeat transparent;	
+}
+
+
+.cm_msg{
+	position:relative;
+	float:left;
+	width:89%;
+	height:auto;
+	line-height:24px;
+	vertical-align:middle;
+	border:1px solid #ccc;
+	padding:5px 5%;
+	color:#666;
+	font-size:12px;
+	text-align:center;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.cm_success{
+	background:url(../img/success.png) left center no-repeat #fff;
+	color:#3c940c;
+}
+
+.cm_alert{
+	background:url(../img/error.png) left center no-repeat #fff;
+	color:#a50000;
+}
